@@ -6,8 +6,8 @@
     margin: 20px;
 }
 .top-child{
-    width: 20%;
     padding:0%;
+    width: 20%;
     background-color: #ffd9df;
     display:inline-block;
 }
@@ -70,4 +70,8 @@
     background-color: #e5dcf0;
     position: relative;
     left: 400px;
+}
+body{
+    width:800px;
+    margin:0 auto;
 }
